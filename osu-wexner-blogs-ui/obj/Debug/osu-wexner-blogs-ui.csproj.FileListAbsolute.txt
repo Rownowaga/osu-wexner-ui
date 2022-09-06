@@ -58,3 +58,5 @@ C:\Users\Casey\source\repos\osu-wexner-blogs-ui\osu-wexner-blogs-ui\bin\System.T
 C:\Users\Casey\source\repos\osu-wexner-blogs-ui\osu-wexner-blogs-ui\bin\System.Text.Json.xml
 C:\Users\Casey\source\repos\osu-wexner-blogs-ui\osu-wexner-blogs-ui\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\Casey\source\repos\osu-wexner-blogs-ui\osu-wexner-blogs-ui\bin\System.ValueTuple.xml
+C:\Users\Casey\source\repos\osu-wexner-blogs-ui\osu-wexner-blogs-ui\bin\Newtonsoft.Json.dll
+C:\Users\Casey\source\repos\osu-wexner-blogs-ui\osu-wexner-blogs-ui\bin\Newtonsoft.Json.xml

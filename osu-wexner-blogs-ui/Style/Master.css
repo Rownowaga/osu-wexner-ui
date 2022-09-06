@@ -1,0 +1,26 @@
+﻿body {
+    margin:auto;
+    padding:5px;
+}
+
+.navBar {
+    width:100%;
+    background-color:red;
+    text-align:center;
+    border-radius:4px;
+}
+
+.blogCardCell {
+    width:50%;
+}
+
+.blogCard {
+    padding-left:15px;
+    background-color: rgba(0, 0, 0, 0.1);
+    box-shadow: 10px 10px 5px #aaaaaa;
+    border-radius: 4px;
+}
+
+    .blogCard td {
+        width:33%;
+    }
